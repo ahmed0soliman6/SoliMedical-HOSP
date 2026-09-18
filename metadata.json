@@ -1,0 +1,10 @@
+{
+  "name": "Remix Soli Medical MICU (ICU-Sync)",
+  "description": "Medical Intensive Care Unit (MICU) Clinical Handover, Telemetry \u0026 Intelligent Longitudinal Patient Archive System",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
